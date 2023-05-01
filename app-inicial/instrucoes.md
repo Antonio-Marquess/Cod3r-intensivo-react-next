@@ -7,7 +7,7 @@
 - ✅ [React] Componente com eventos
 
 - ✅ [React] Componente com estados
-- 🔴 [React] Comunicação entre Componente (direta)
+- ✅ [React] Comunicação entre Componente (direta)
 - 🔴 [React] Comunicação entre Componente (indireta)
 - 🔴 [React] Rederização condicional
 - 🔴 [React] Rederização de lista
