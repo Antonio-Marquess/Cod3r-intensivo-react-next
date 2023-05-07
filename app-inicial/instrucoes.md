@@ -10,5 +10,5 @@
 - ✅ [React] Comunicação entre Componente (direta)
 - ✅ [React] Comunicação entre Componente (indireta)
 
-- 🔴 [React] Rederização condicional
+- ✅ [React] Rederização condicional
 - 🔴 [React] Rederização de lista
